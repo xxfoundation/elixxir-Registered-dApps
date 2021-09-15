@@ -1,0 +1,10 @@
+{
+  "cmix-client": {
+    "oldest": "v1.0.0",
+    "latest": "v3.0.1",
+  },
+  "dapp-id": {
+    "oldest": "minimum semantic version",
+    "latest": "most current version",
+  },
+}
