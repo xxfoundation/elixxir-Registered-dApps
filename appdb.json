@@ -4,7 +4,9 @@
     "latest": "v3.0.1",
   },
   "dapp-id": {
-    "oldest": "minimum semantic version",
-    "latest": "most current version",
-  },
+    "min_version": "1.0",
+    "recommended_version": "1.0",
+    "android_app_url": "https://xxmessenger.io",
+    "ios_app_url": "https://xxmessenger.io"
+  }
 }
