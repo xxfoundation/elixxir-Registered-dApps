@@ -9,6 +9,7 @@
     "ios_min_version": "1.0",
     "ios_recommended_version": "1.0",
     "android_app_url": "https://play.google.com/apps/internaltest/4699681138805682243",
-    "ios_app_url": "https://testflight.apple.com/join/L1Rj0so3"
+    "ios_app_url": "https://testflight.apple.com/join/L1Rj0so3",
+    "minimum_popup_msg": "This app version is not supported anymore, please update to the latest version to keep enjoying our app"
   }
 }
