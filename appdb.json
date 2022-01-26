@@ -8,15 +8,15 @@
     "android_recommended_version": "5.0",
     "ios_min_version": "5.0",
     "ios_recommended_version": "5.0",
-    "android_app_url": "https://play.google.com/apps/internaltest/4699681138805682243",
-    "ios_app_url": "https://testflight.apple.com/join/L1Rj0so3",
+    "android_app_url": "https://play.google.com/store/apps/details?id=io.xxlabs.messenger",
+    "ios_app_url": "https://apps.apple.com/us/app/xx-messenger/id1593670957",
     "minimum_popup_msg": "This app version is not supported anymore, please update to the latest version to keep enjoying our app",
     "new_android_min_version": "1.0",
     "new_android_recommended_version": "1.0",
     "new_ios_min_version": "1.0.1",
     "new_ios_recommended_version": "1.0.1",
-    "new_android_app_url": "https://xx.network",
-    "new_ios_app_url": "https://testflight.apple.com/join/L1Rj0so3",
+    "new_android_app_url": "https://play.google.com/store/apps/details?id=io.xxlabs.messenger",
+    "new_ios_app_url": "https://apps.apple.com/us/app/xx-messenger/id1593670957",
     "new_minimum_popup_msg": "This app version is not supported anymore, please update to the latest version to keep enjoying our app"
   }
 }
