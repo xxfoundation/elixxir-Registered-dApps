@@ -17,7 +17,7 @@
     "new_ios_recommended_version": "1.0.5",
     "new_android_app_url": "https://play.google.com/store/apps/details?id=io.xxlabs.messenger",
     "new_ios_app_url": "https://apps.apple.com/us/app/xx-messenger/id1593670957",
-    "new_minimum_popup_msg": "If you are on iOS please update your app. Meanwhile the Android version of the xx messenger is experiencing an outage, it will be back shortly.",
+    "new_minimum_popup_msg": "This app version is not supported anymore, please update to the latest version to keep enjoying our app",
      "test_android_min_version": "2.02",
     "test_android_recommended_version": "2.02",
     "test_ios_min_version": "1.0.5",
